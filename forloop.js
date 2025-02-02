@@ -11,7 +11,7 @@ for(let n=2;n<=10;n+=2)
     console.log(n);
 }
 
-//10 9 8 7 6 5 4 3 2 1
+//10 9 8 7 6 5 4 3 2 1 0
 for(let j=10;j>=0;j--)
 {
     console.log(j);

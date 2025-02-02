@@ -3,7 +3,8 @@ let n=1;
 do{
 console.log(n);
 n++;
-}while(n<=10);
+}
+while(n<=10);
 
 
 // 10 9 8 7 6 5 4 3 2 1 0
